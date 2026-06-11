@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: puter-api
+    runtime: node
+    buildCommand: npm install -g @npcoder/puter-api
+    startCommand: npm start
+    plan: free

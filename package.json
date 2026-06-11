@@ -1,0 +1,10 @@
+{
+  "name": "botnet-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@npcoder/puter-api": "^1.0.0"
+  },
+  "scripts": {
+    "start": "npx puter-api start --foreground --port $PORT"
+  }
+}

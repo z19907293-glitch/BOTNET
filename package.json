@@ -1,7 +1,0 @@
-{
-  "name": "botnet-api",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "puter-api start --foreground --port $PORT"
-  }
-}
